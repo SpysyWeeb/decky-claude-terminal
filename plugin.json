@@ -1,0 +1,14 @@
+{
+  "name": "Claude Terminal",
+  "author": "SpysyWeeb",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "terminal",
+      "claude"
+    ],
+    "description": "Claude Code in the Quick Access Menu and a fullscreen overlay, sharing a tmux session with your desktop/Konsole Claude.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+  }
+}
